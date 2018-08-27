@@ -1,0 +1,25 @@
+2018-08-24 18:20:17,448:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='train', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-08-24 18:20:17,601:WARNING: From C:\Users\huangxin_sx\AppData\Local\Continuum\Anaconda3\lib\site-packages\tensorflow\python\ops\rnn.py:430: calling reverse_sequence (from tensorflow.python.ops.array_ops) with seq_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+seq_dim is deprecated, use seq_axis instead
+2018-08-24 18:20:17,601:WARNING: From C:\Users\huangxin_sx\AppData\Local\Continuum\Anaconda3\lib\site-packages\tensorflow\python\ops\rnn.py:430: calling reverse_sequence (from tensorflow.python.ops.array_ops) with seq_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+seq_dim is deprecated, use seq_axis instead
+2018-08-24 18:20:17,604:WARNING: From C:\Users\huangxin_sx\AppData\Local\Continuum\Anaconda3\lib\site-packages\tensorflow\python\util\deprecation.py:454: calling reverse_sequence (from tensorflow.python.ops.array_ops) with batch_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+batch_dim is deprecated, use batch_axis instead
+2018-08-24 18:20:17,604:WARNING: From C:\Users\huangxin_sx\AppData\Local\Continuum\Anaconda3\lib\site-packages\tensorflow\python\util\deprecation.py:454: calling reverse_sequence (from tensorflow.python.ops.array_ops) with batch_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+batch_dim is deprecated, use batch_axis instead
+2018-08-24 18:20:22,319:INFO: 2018-08-24 18:20:19 epoch 1, step 1, loss: 79.0, global_step: 1
+2018-08-24 18:20:22,319:INFO: 2018-08-24 18:20:19 epoch 1, step 1, loss: 79.0, global_step: 1
+2018-08-24 18:29:00,884:INFO: 2018-08-24 18:20:19 epoch 1, step 300, loss: 9.088, global_step: 300
+2018-08-24 18:29:00,884:INFO: 2018-08-24 18:20:19 epoch 1, step 300, loss: 9.088, global_step: 300
+2018-08-24 18:37:50,961:INFO: 2018-08-24 18:20:19 epoch 1, step 600, loss: 3.64, global_step: 600
+2018-08-24 18:37:50,961:INFO: 2018-08-24 18:20:19 epoch 1, step 600, loss: 3.64, global_step: 600
+2018-08-24 18:43:15,746:INFO: 2018-08-24 18:20:19 epoch 1, step 792, loss: 3.833, global_step: 792
+2018-08-24 18:43:15,746:INFO: 2018-08-24 18:20:19 epoch 1, step 792, loss: 3.833, global_step: 792
+2018-08-24 18:43:16,272:INFO: ===========validation / test===========
+2018-08-24 18:43:16,272:INFO: ===========validation / test===========
+2018-08-24 18:44:04,000:INFO: 2018-08-24 18:44:02 epoch 2, step 1, loss: 3.393, global_step: 793
+2018-08-24 18:44:04,000:INFO: 2018-08-24 18:44:02 epoch 2, step 1, loss: 3.393, global_step: 793
